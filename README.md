@@ -1,4 +1,6 @@
 # 💻 Evidencia 4 - Programacion y Base de Datos 💻
+
+### _Tecnicatura Superior en Desarrollo de Software_ :  Modulo PROGRAMADOR
  
 Se desarrolla un objeto con funcionalidad logica en el lenguaje de programacion Python 🐍  para poner en practica POO , se utiliza TDD 🧪 y se diseña la base de datos correspondiente 💿
 
@@ -10,3 +12,10 @@ Las funciones principales de este objeto son:
 - ⬆️ Aumentar su peso
 - ⬇️ Disminuir su peso
 - 🔄 Cambiar la disposicion de la maquina para trabajar otro grupo muscular
+
+
+
+*_Docentes :_*
+- Ivana Soledad Rojas Corsico
+- Martín Gerlero 
+  
