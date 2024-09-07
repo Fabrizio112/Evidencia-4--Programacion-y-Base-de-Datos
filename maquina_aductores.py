@@ -29,7 +29,7 @@ class MaquinaAductores():
     if(self.get_peso() == peso_maximo):
       return "No se puede aumentar mas el peso de la máquina"
     else:
-      self.set_peso(+5)
+      self.set_peso(self.__peso + 5)
       return "Aumentando el peso de la máquina"
   def disminuir_peso(self):
     peso_minimo=0
